@@ -1,6 +1,6 @@
 <?php
 /**
- * Webkul Software.
+ * Sravanth Ranga.
  *
  * @category  Webkul
  * @package   Webkul_Hello
@@ -15,7 +15,7 @@ use Magento\Framework\App\Action\Context;
 use Magento\Framework\View\Result\PageFactory;
 
 /**
- * Webkul Hello Landing page Index Controller.
+ * Sravanth Hello Landing page Index Controller.
  */
 class Index extends Action
 {
