@@ -1,9 +1,9 @@
 <?php
 /**
- * Sravanth Ranga.
+ * Webkul Software.
  *
- * @category  Webkul
- * @package   Webkul_Hello
+ * @category  Hemanth
+ * @package   bond_Hello
  * @author    Webkul
  * @copyright Copyright (c) 2010-2017 Webkul Software Private Limited (https://webkul.com)
  * @license   https://store.webkul.com/license.html
@@ -15,7 +15,7 @@ use Magento\Framework\App\Action\Context;
 use Magento\Framework\View\Result\PageFactory;
 
 /**
- * Sravanth Hello Landing page Index Controller.
+ * Webkul Hello Landing page Index Controller.
  */
 class Index extends Action
 {
