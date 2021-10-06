@@ -1,6 +1,6 @@
 <?php
  
-namespace Thecoachsmb\Mymodule\Setup;
+namespace Thecoachsmb\Mymodue\Setup;
  
 use Magento\Framework\Setup\InstallSchemaInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
