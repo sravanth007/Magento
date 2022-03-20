@@ -1,0 +1,15 @@
+{
+    "custom_contact": {
+        "column": {
+            "id": true,
+            "name": true,
+            "email": true,
+            "phone_number": true,
+            "where_heard": true,
+            "what_on_mind": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
